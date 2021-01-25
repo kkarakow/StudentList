@@ -12,7 +12,7 @@ public class StudentList {
     public static void main(String[] args) {
 
         // Create an array to hold 3 instances of Student
-        Student[] students = new Student[3];
+        Student[] students = new Student[2];
         
         Scanner input = new Scanner(System.in);        
         System.out.println("Enter student names");
